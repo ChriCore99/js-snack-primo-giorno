@@ -32,8 +32,8 @@ console.log(circle); //number
 
 // esercizio 3
 
-let name = "carlo"; //string
+let nome = "carlo"; //string
 
-name = "marco"; //string
+nome = "marco"; //string
 
-console.log(name); //string
+console.log(nome); //string
